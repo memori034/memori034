@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello 👋
+Junior in High School interested in software engineering and neuroscience 🧠
 <!--
 **memori034/memori034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
